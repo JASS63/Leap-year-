@@ -12,4 +12,5 @@ else
 {
 printf("This year is not at all leap year");
 }
+  return 0;
 }
